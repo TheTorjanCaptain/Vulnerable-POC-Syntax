@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Fake Form</title>
+  </head>
+  <body onload="document.bank_form.submit()">
+    <form action="https://example.com/" method=post enctype="application/json" method="POST">
+      <input type="text" name="name" value="test3" />
+      <input type="text" name="Email" value="test3@test.com" />
+      <input type="text" name="Mobile Number" value="576075897" />
+      <input type="text" name="position" value="Chat Support" />
+      <input type="text" name="scenario" value="prospective_candidate" />
+      <input type="text" name="role" value="Internship" />
+      <input type="text" name="agent_job" value="13" />
+      <input type=submit>
+    </form>
+  </body>
+</html>
