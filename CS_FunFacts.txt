@@ -1,0 +1,100 @@
+The first PC virus, "Brain," was created in 1986 as an anti-piracy measure but spread worldwide unintentionally.  
+"Hacker" originally meant a skilled innovator in the 1960s MIT culture, not a criminal.  
+The Morris Worm in 1988 disabled about 10% of internet-connected systems at the time.  
+"Mafiaboy," a 15-year-old hacker, launched the first major DDoS attack in 2000, shutting down sites like Yahoo and Amazon.  
+Ransomware attacks have resulted in individual ransom payments exceeding $40 million.  
+Human error accounts for over 90% of all cybersecurity breaches.  
+The password "admin" is still one of the most common passwords used worldwide.  
+83% of Americans use weak passwords that can be easily hacked.  
+HTTPS was introduced in 1994 to secure online data transmission.  
+The first person convicted under the U.S. Computer Fraud and Abuse Act was Morris Worm’s creator.  
+Social engineering exploits human psychology to get confidential information.  
+Stuxnet virus was the first to cause physical damage by sabotaging Iranian nuclear centrifuges.  
+Cybercrime costs are projected to reach $10.5 trillion annually by 2025.  
+Over 90% of the internet is part of the deep web, not indexed by search engines.  
+Botnets are collections of hijacked computers used for large-scale cyber attacks.  
+Worldwide cybersecurity spending surpassed $170 billion in 2022.  
+Email is the entry point for 94% of malware attacks.  
+Cloud security failures occur mostly due to customer misconfigurations.  
+Cybercrime profits exceed those of the global illegal drug trade.  
+The average cost of a data breach was $3.86 million globally in 2020.  
+75% of cyber attacks begin with a phishing email.  
+Ransomware victims in manufacturing pay the ransom 62% of the time.  
+The average ransomware payment increased by 82% in 2021.  
+Five percent of company folders are adequately protected on average.  
+Approximately 4 million files are stolen daily worldwide.  
+The FBI reported a 300% increase in cybercrime during the COVID-19 pandemic.  
+The Netherlands has the lowest cybercrime rate, Russia the highest.  
+85% of people posting puppy photos online are likely trying to scam you.  
+Nuclear facilities have been targeted using malware since 2010 (e.g., Stuxnet).  
+Password reuse is responsible for 80% of data breaches.  
+The ILOVEYOU virus in 2000 caused an estimated $15 billion in damages.  
+Social media accounts are hacked every 39 seconds on average.  
+The WannaCry ransomware caused $4-8 billion in damages in the UK public health sector.  
+Most companies take nearly six months to detect a data breach.  
+Around 86% of data breaches are financially motivated.  
+Voice phishing (vishing) is an increasingly popular attack vector.  
+Zero-day vulnerabilities are those that are exploited before the vendor knows about them.  
+Artificial intelligence is increasingly used to both defend against and carry out cyber attacks.  
+The U.S. faces the highest average cost of data breaches globally, around $9.5 million.  
+In 2023, over 353 million people were affected by data breaches.  
+Cyber attacks on critical infrastructure have increased 30% annually.  
+The average time to contain a data breach is 229 days.  
+More than 77% of organizations do not have an incident response team.  
+Mobile malware attacks increased 50% in 2024.  
+Most IoT devices use default passwords that are easy to hack.  
+On average, it takes 206 days to identify a data breach.  
+The average ransom demand in cyberattacks increased to over $2 million.  
+Cyber espionage is a major threat to national security worldwide.  
+Over 50% of phishing sites use HTTPS to appear legitimate.  
+95% of cybersecurity breaches can be traced back to human error.  
+APT (Advanced Persistent Threat) attacks are long-term, targeted cyber intrusions.  
+Cybersecurity jobs are predicted to grow by 31% through 2030.  
+SQL injection attacks remain one of the top 10 web application vulnerabilities.  
+Cryptojacking uses your device to mine cryptocurrency without your consent.  
+70% of breaches involve privilege misuse or compromised credentials.  
+Many companies fail to patch known vulnerabilities within 30 days.  
+Cyber insurance is becoming standard to mitigate financial risks of attacks.  
+IoT devices are estimated to reach over 75 billion globally by 2025.  
+The first phishing attack dates back to the 1990s targeting AOL users.  
+The average downtime from a ransomware attack is 21 days.  
+Insider threats cause about 34% of data breaches.  
+Cyber attacks cause more downtime in manufacturing than any other sector.  
+The SolarWinds hack affected thousands of government and private sector systems worldwide.  
+Code signing certificates have been compromised in many malware campaigns.  
+Multi-factor authentication can block over 99.9% of automated attacks.  
+Hackers can create deepfake audio and video to manipulate or impersonate targets.  
+Cybersecurity firms use honeypots to detect attacker activity.  
+The majority of DDoS attacks last less than 10 minutes but cause significant damage.  
+Cyberattacks cost small businesses an average of $200,000 to recover from.  
+Supply chain attacks target software providers to infiltrate multiple organizations.  
+Over 50% of companies have experienced a supply chain cyber attack.  
+LDAP injection is a serious vulnerability in directory services.  
+Cryptanalysis is the study of breaking encryption to access protected data.  
+Cybersecurity awareness training reduces phishing click rates by over 70%.  
+Machine learning models are vulnerable to adversarial attacks.  
+Password managers generate and store strong passwords securely.  
+The average lifespan of malware has decreased due to better detection techniques.  
+Cyber attacks peak during holiday seasons when vigilance is lower.  
+Data masking is used to protect sensitive data in non-production environments.  
+Bug bounty programs invite hackers to find and report vulnerabilities ethically.  
+The GDPR introduced new rules for data privacy and breach notification in 2018.  
+Cyber hygiene practices are critical to reduce vulnerability exposure.  
+Penetration testing simulates real-world attacks to find security weaknesses.  
+Dark web marketplaces are hubs for buying and selling stolen data.  
+SIM swapping attacks can steal two-factor authentication codes sent via SMS.  
+Cybersecurity budgets are expected to increase by over 12% annually.  
+Vulnerability scanners automate identification of security flaws.  
+Remote work has increased the attack surface for many organizations.  
+Many ransomware campaigns now include data exfiltration threats.  
+Attackers often use ransomware-as-a-service kits to launch attacks easily.  
+The Cybersecurity and Infrastructure Security Agency (CISA) helps protect US infrastructure.  
+HTTPS encrypts data between user and website to prevent interception.  
+Phishing kits are sold on the dark web to facilitate mass phishing attacks.  
+Biometrics are increasingly used for authentication but have privacy challenges.  
+Cyber insurance claims have risen sharply in the last five years.  
+The MITRE ATT&CK framework categorizes hacker tactics and techniques.  
+Encrypting data at rest is essential to protect against unauthorized access.  
+Supply chain risks have elevated operational technology (OT) cybersecurity concerns.  
+Cybersecurity frameworks like NIST help organizations manage risks systematically.  
+Investing in security awareness is cheaper than recovering from the average breach.
